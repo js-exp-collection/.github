@@ -16,4 +16,4 @@ Everything you see is legacy, unofficial material built for business purposes<br
 
 ---
 
-<img width="35" align="left" src="https://raw.githubusercontent.com/wordpress-projects-station/.github/main/resources/repository.creditlogo.bertz.gif" > <span>Credits: </span>  Alberto Marà aka <b><a href="https://github.com/bertz-tech">github @bertz-tech</a> / <a href="https://bertz.tech">https://bertz.tech</a></b>
+<img width="35" align="left" src="https://raw.githubusercontent.com/wordpress-projects-station/.github/main/resources/repository.creditlogo.berto.gif" > <span>Credits: </span>  Alberto Marangelo aka <b><a href="https://github.com/berto-dev">github @berto-dev</a> / <a href="https://berto.dev">https://berto.dev</a></b>
